@@ -12,7 +12,7 @@ This tutorial uses DCGAN to generate new celebrities from real celebrities’ im
 
 ## Results
 Below is the comparison of fake and real cat faces after training 40 epochs.
-![alt text](https://user-images.githubusercontent.com/75136798/189398792-8adf0345-ab7b-408a-87d0-0d46a66b1286.png)
+![Screenshot](https://user-images.githubusercontent.com/75136798/189398792-8adf0345-ab7b-408a-87d0-0d46a66b1286.png)
 
 ## Details
 For more details, please refer to the `Project_Report.pdf`.
