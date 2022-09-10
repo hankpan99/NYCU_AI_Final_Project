@@ -11,7 +11,7 @@ Codes we refer to: [DCGAN_Tutorial](https://pytorch.org/tutorials/beginner/dcgan
 This tutorial uses DCGAN to generate new celebrities from real celebrities’ images.
 
 ## Results
-Below is the comparison of fake and real cat faces after training 40 epochs.
+Below is the comparison of real (left figure) and fake (right figure) cat faces after training 40 epochs.
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189398792-8adf0345-ab7b-408a-87d0-0d46a66b1286.png)
 
 ## Details
